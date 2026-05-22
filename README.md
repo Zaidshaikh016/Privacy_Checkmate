@@ -2,7 +2,7 @@
 
 **Last updated:** 20 May 2026
 
-Welcome to Checkmate, also known as Checkmate: Smart Checklists developed by Youtilities LTD. Your privacy is important to us. This Privacy Policy explains how Checkmate collects, uses, and protects information when you use the app.
+Welcome to Checkmate, also known as Checkmate: Smart Checklists developed by Youtilities LTD. Your privacy is important to us. This Privacy Policy explains how Checkmate & Checkmate: Smart Checklists collects, uses, and protects information when you use the app.
 
 ## 1. Information We Collect
 
