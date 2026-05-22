@@ -1,12 +1,12 @@
-# Privacy Policy for Checkmate & Checkmate: Smart checklists
+# Privacy Policy for Checkmate & Checkmate: Smart Checklists
 
 **Last updated:** 20 May 2026
 
-Welcome to Checkmate, also known as Checkmate: Smart checklists developed by Youtilities LTD. Your privacy is important to us. This Privacy Policy explains how Checkmate collects, uses, and protects information when you use the app.
+Welcome to Checkmate, also known as Checkmate: Smart Checklists developed by Youtilities LTD. Your privacy is important to us. This Privacy Policy explains how Checkmate collects, uses, and protects information when you use the app.
 
 ## 1. Information We Collect
 
-Checkmate is designed to be primarily local first. Most checklist data is stored directly on your device.
+Checkmate & Checkmate: Smart Checklists are designed to be primarily local first. Most checklist data is stored directly on your device.
 
 Depending on features used, the app may collect:
 
@@ -33,7 +33,7 @@ Do not submit sensitive or confidential information through AI prompts.
 
 ## 4. Advertising
 
-Checkmate may display advertisements using third party advertising providers such as:
+Checkmate & Checkmate: Smart Checklists may display advertisements using third party advertising providers such as:
 
 - Google AdMob
 
@@ -68,7 +68,7 @@ If premium features or subscriptions are offered, payments are securely processe
 
 ## 7. Children’s Privacy
 
-Checkmate is not directed toward children under 13. We do not knowingly collect personal information from children.
+Checkmate & Checkmate: Smart Checklists are not directed toward children under 13. We do not knowingly collect personal information from children.
 
 ## 8. Data Sharing
 
