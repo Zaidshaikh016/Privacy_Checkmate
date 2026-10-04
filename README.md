@@ -1,6 +1,6 @@
 # Privacy Policy for Checkmate: Smart Checklists
 
-**Last updated: 7 September 2026**
+**Last updated: 13 September 2026**
 
 Checkmate: Smart Checklists ("Checkmate", "the App", "we", "us", or "our") is developed and operated by **Youtility LTD**.
 
@@ -224,6 +224,8 @@ We may process or retain information where required to comply with applicable la
 
 Checkmate may display advertisements through third-party advertising services, including **Google AdMob**.
 
+Advertisements may be shown to users who do not have an active Checkmate Pro subscription or the separate one-time Ad-Free purchase. Active Pro subscribers and users with the Ad-Free purchase are not shown these advertisements while the applicable purchase status is recognised.
+
 Advertising providers may use device identifiers and other information to provide, measure, and improve advertising.
 
 Depending on your location and device, you may be provided with options relating to personalised advertising and tracking.
@@ -237,6 +239,11 @@ We do not control all information independently collected by third-party adverti
 ## 6. Purchases and Subscriptions
 
 Checkmate may offer paid features, subscriptions, or in-app purchases.
+
+Current offers may include:
+
+- **Checkmate Pro**, a recurring monthly subscription that includes Pro-only tools, a Pro profile badge, an initial credit grant, daily claimable credits, and an ad-free experience while the subscription is active
+- **Ad-Free**, a separate one-time purchase that includes an ad-free experience and a one-time credit grant, but does not provide a Pro badge, Pro-only tools, or recurring Pro credit benefits
 
 Payments are processed by third-party platform or payment providers, such as:
 
@@ -253,6 +260,8 @@ We may receive information about purchases or subscription status required to pr
 - Renewal or expiry status
 
 This information may also be processed by services used to manage in-app purchases and subscriptions.
+
+We currently use **RevenueCat** to validate, restore, link, and manage purchase entitlements. RevenueCat may process app user identifiers, product identifiers, transaction identifiers, purchase dates, subscription status, renewal or expiry information, and related technical purchase data. We use this information to award the correct access and credits, prevent duplicate grants, restore purchases, and distinguish recurring Pro access from the one-time Ad-Free purchase.
 
 ---
 
