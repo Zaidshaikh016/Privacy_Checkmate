@@ -242,8 +242,8 @@ Checkmate may offer paid features, subscriptions, or in-app purchases.
 
 Current offers may include:
 
-- **Checkmate Pro**, a recurring monthly subscription that includes Pro-only tools, a Pro profile badge, an initial credit grant, daily claimable credits, and an ad-free experience while the subscription is active
-- **Ad-Free**, a separate one-time purchase that includes an ad-free experience and a one-time credit grant, but does not provide a Pro badge, Pro-only tools, or recurring Pro credit benefits
+- **Checkmate Pro**, currently £5.99 per month, which includes Pro-only tools, a Pro profile badge, 250 welcome credits once, 10 claimable credits for each logged-in day, and an ad-free experience while the subscription is active. This can provide up to 550 credits in a 30-day month when every daily grant is claimed
+- **Ad-Free**, currently a separate £1.99 one-time purchase that includes an ad-free experience and exactly 99 credits once, but does not provide a Pro badge, Pro-only tools, or recurring Pro credit benefits
 
 Payments are processed by third-party platform or payment providers, such as:
 
